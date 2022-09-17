@@ -21,3 +21,14 @@
 $ mvn install
 
 ```
+
+<h2> Maven </h2>
+
+```
+<dependency>
+  <groupId>com.codewithme</groupId>
+  <artifactId>twitter-client</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+</dependency>
+
+```
